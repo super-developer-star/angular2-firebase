@@ -6,7 +6,7 @@ const firebaseConfig = {
     authDomain: "angular2-firebase-f6f3a.firebaseapp.com",
     databaseURL: "https://angular2-firebase-f6f3a.firebaseio.com",
     storageBucket: "angular2-firebase-f6f3a.appspot.com",
-    messagingSenderId: "322183761267"
+    messagingSenderId: "your id"
 };
 
 const firebaseAuthConfig = {
